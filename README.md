@@ -1,3 +1,20 @@
+def print_name_with_lights():
+    # White light
+    print("\033[1;37;40mNavneet")
+    
+    # Green light
+    print("\033[1;32;40mNavneet")
+    
+    # Reset colors
+    print("\033[0;37;40m")
+
+if __name__ == "__main__":
+    print_name_with_lights()
+
+
+
+
+
 # Hi there! 👋
 
 My name is NAvneet Vishwakarma, and I'm excited to introduce myself to you. I have a strong background in C language and a keen interest in data structures and algorithms. Additionally, I have a passion for data analysis and visualization, with a focus on Power BI.
