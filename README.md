@@ -1,8 +1,33 @@
+# Hello, I'm Navneet! 👋
+
+Welcome to my GitHub profile. I'm passionate about coding and creating awesome things.
+
 <img align="right" alt="Coding" width="1100" src="https://raw.githubusercontent.com/CruzNadin/cruznadin/main/github-contribution-grid-snake-navneet.gif">
+
+## About Me
+
+I'm a software developer with a keen interest in [specific technologies or projects you are interested in]. I love exploring new technologies and contributing to open-source projects.
+
+## Skills
+
+- Programming Languages: [List your programming languages]
+- Web Development: [List your web development skills]
+- ...
+
+## Connect with Me
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
+- Twitter: [Your Twitter Handle](https://twitter.com/your-twitter-handle)
+- ...
+
+Feel free to explore my repositories and don't hesitate to reach out!
+
+Happy coding! 🚀
+
 
 # Hi there! 👋
 
-My name is NAvneet Vishwakarma, and I'm excited to introduce myself to you. I have a strong background in C language and a keen interest in data structures and algorithms. Additionally, I have a passion for data analysis and visualization, with a focus on Power BI.
+My name is Navneet Vishwakarma, and I'm excited to introduce myself to you. I have a strong background in C language and a keen interest in data structures and algorithms. Additionally, I have a passion for data analysis and visualization, with a focus on Power BI.
 
 ## About Me
 
