@@ -24,9 +24,9 @@ I have always been fascinated by the world of programming and software developme
 
 One of my current goals is to deepen my knowledge of Data Structures and Algorithms (DSA). I believe that a strong grasp of DSA is essential for becoming a proficient programmer and problem solver. I'm actively seeking resources and courses to improve my DSA skills.
 
-## Why Tesa?
+## Why Tesla?
 
-I am highly interested in joining Tesa because I believe it provides a dynamic and challenging environment that aligns with my career aspirations. I am eager to collaborate with like-minded individuals and contribute to meaningful projects. Tesa's commitment to innovation and growth makes it an ideal place for someone with my skill set and goals.
+I am highly interested in joining Tesla because I believe it provides a dynamic and challenging environment that aligns with my career aspirations. I am eager to collaborate with like-minded individuals and contribute to meaningful projects. Tesla's commitment to innovation and growth makes it an ideal place for someone with my skill set and goals.
 
 ## Let's Connect
 
