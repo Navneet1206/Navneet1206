@@ -1,3 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My GitHub Profile</title>
+    <style>
+        body {
+            background-color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            color: white;
+            font-family: 'Arial', sans-serif;
+        }
+
+        .name {
+            font-size: 2em;
+            text-align: center;
+            color: #4CAF50; /* Green color */
+            text-shadow: 2px 2px 4px #000000; /* White shadow for a light effect */
+        }
+    </style>
+</head>
+<body>
+    <div class="name">
+        Your Name
+    </div>
+</body>
+</html>
+
+
+
 # Hi there! 👋
 
 My name is NAvneet Vishwakarma, and I'm excited to introduce myself to you. I have a strong background in C language and a keen interest in data structures and algorithms. Additionally, I have a passion for data analysis and visualization, with a focus on Power BI.
