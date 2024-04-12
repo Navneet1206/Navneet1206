@@ -10,6 +10,7 @@ My name is Navneet Vishwakarma, and I'm excited to introduce myself to you. I ha
 - **Location**: sujawal Khurd , Satna , Madhya Pradesh.
 - **GitHub**: [https://github.com/Navneet1206](https://github.com/Navneet1206)
 - **LinkedIn**: https://www.linkedin.com/in/navneet-vishwakarma-b678aa262/
+- **Portfolio**: https://navneet-vishwakarma-portfolio.netlify.app/
 
 ## Skills
 
