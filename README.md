@@ -2,7 +2,7 @@
 
 # Hi there! 👋
 
-My name is Navneet Vishwakarma, and I'm excited to introduce myself to you. I have a strong background in C language and a keen interest in data structures and algorithms. Additionally, I have a passion for data analysis and visualization, with a focus on Power BI.
+My name is Navneet Vishwakarma, and I'm excited to introduce myself to you. I have a strong background in C, C++ language and a keen interest in data structures and algorithms. Additionally, I have a passion for WebDevelopment using  HTML, CSS, JS languages.
 
 ## About Me
 
@@ -14,8 +14,8 @@ My name is Navneet Vishwakarma, and I'm excited to introduce myself to you. I ha
 
 ## Skills
 
-- **Programming Languages**: C
-- **Data Analysis Tools**: Power BI
+- **Programming Languages**: C, C++
+- **WebDevelopment**: HTML, CSS, JS
 - **Version Control**: Git
 - **Problem Solving**: Currently learning Data Structures and Algorithms (DSA)
 
