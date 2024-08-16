@@ -7,17 +7,29 @@
 💻 Enthusiastic coder with a keen interest in problem-solving  </br>
 <h3 align="left">Connect with me:</h3>
 📱 LinkedIn: [Navneet Vishwakarma](https://www.linkedin.com/in/navneet-vishwakarma-b678aa262/)
+🌐 Portfolio: [Navneet Vishwakarma](https://navneet-vishwakarma-portfolio.netlify.app/)
 <h3 align="left">Interests </h3>
 🌐 Web Development  </br>
 📱 Mobile App Development </br> 
 🤖 Artificial Intelligence and Machine Learning </br>
-
+<h3 align="left">Skills</h3>
+🌟 Programming Languages: C, C++, Java, Python </br>
+🌟 Web Technologies: HTML, CSS, JavaScript, React, Node.js </br>
+🌟 Databases: MySQL, MongoDB </br>
+🌟 Operating Systems: Windows, Linux, macOS </br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <p>Programming Languages: C, C++</p>
 <p>Web Technologies: HTML, CSS, JavaScript</p>
 <p>Tools: Git, VS Code</p>
-
+<!-- <h3 align="left">Achievements</h3>
+🏆 Winner of Hackathon 2022 </br>
+🏆 Runner-up of Codefest 2022 </br> -->
+<h3 align="left">Education</h3>
+🎓 B.Tech in Computer Science at Your University </br>
+<!-- <h3 align="left">Certifications</h3>
+📜 Certified Java Developer </br>
+📜 Certified Python Developer </br> -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Navneet1206&show_icons=true&locale=en&layout=compact" alt="Navneet1206" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Navneet1206&show_icons=true&locale=en" alt="Navneet1206" /></p>
