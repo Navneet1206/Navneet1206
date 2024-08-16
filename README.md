@@ -1,34 +1,25 @@
+# Hi there! 👋 I'm Navneet Vishwakarma
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Navneet1206&label=Profile%20views&color=0e75b6&style=flat" alt="Navneet1206" /> </p>
+<h3 align="left">About Me</h3>
+🎓 B.Tech in Computer Science at Your University <br/> 
+🚀 Passionate about exploring the vast realms of technology </br>
+💻 Enthusiastic coder with a keen interest in problem-solving  </br>
+<h3 align="left">Connect with me:</h3>
+📱 LinkedIn: [Navneet Vishwakarma](https://www.linkedin.com/in/navneet-vishwakarma-b678aa262/)
+<h3 align="left">Interests </h3>
+🌐 Web Development  </br>
+📱 Mobile App Development </br> 
+🤖 Artificial Intelligence and Machine Learning </br>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+<p>Programming Languages: C, C++</p>
+<p>Web Technologies: HTML, CSS, JavaScript</p>
+<p>Tools: Git, VS Code</p>
 
-# Hi there! 👋
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Navneet1206&show_icons=true&locale=en&layout=compact" alt="Navneet1206" /></p>
 
-My name is Navneet Vishwakarma, and I'm excited to introduce myself to you. I have a strong background in C, C++ language and a keen interest in data structures and algorithms. Additionally, I have a passion for WebDevelopment using  HTML, CSS, JS languages.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Navneet1206&show_icons=true&locale=en" alt="Navneet1206" /></p>
 
-## About Me
-
-- **Name**: Navneet Vishwakarma.
-- **Location**: sujawal Khurd , Satna , Madhya Pradesh.
-- **GitHub**: [https://github.com/Navneet1206](https://github.com/Navneet1206)
-- **LinkedIn**: https://www.linkedin.com/in/navneet-vishwakarma-b678aa262/
-- **Portfolio**: https://navneet-vishwakarma-portfolio.netlify.app/
-
-## Skills
-
-- **Programming Languages**: C, C++
-- **WebDevelopment**: HTML, CSS, JS
-- **Version Control**: Git
-- **Problem Solving**: Currently learning Data Structures and Algorithms (DSA)
-
-## Interests
-
-I have always been fascinated by the world of programming and software development. My experience with C language has provided me with a strong foundation in coding and problem-solving. I am particularly drawn to the field of data analysis and visualization, and I have been using Power BI to create insightful reports and dashboards.
-
-## Learning Journey
-
-One of my current goals is to deepen my knowledge of Data Structures and Algorithms (DSA). I believe that a strong grasp of DSA is essential for becoming a proficient programmer and problem solver. I'm actively seeking resources and courses to improve my DSA skills.
-
-
-## Let's Connect
-
-I'm always open to new opportunities, collaborations, and discussions. If you'd like to get in touch or learn more about me, please feel free to reach out on [LinkedIn](https://www.linkedin.com/in/navneet-vishwakarma-b678aa262/). I look forward to connecting with you!
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Navneet1206&" alt="Navneet1206" /></p>
