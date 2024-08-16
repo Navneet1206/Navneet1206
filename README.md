@@ -6,8 +6,8 @@
 🚀 Passionate about exploring the vast realms of technology </br>
 💻 Enthusiastic coder with a keen interest in problem-solving  </br>
 <h3 align="left">Connect with me:</h3>
-📱 LinkedIn: [Navneet Vishwakarma](https://www.linkedin.com/in/navneet-vishwakarma-b678aa262/)
-🌐 Portfolio: [Navneet Vishwakarma](https://navneet-vishwakarma-portfolio.netlify.app/)
+📱 LinkedIn: [Navneet Vishwakarma]<br>(https://www.linkedin.com/in/navneet-vishwakarma-b678aa262/)<br><br>
+🌐 Portfolio: [Navneet Vishwakarma]<br>(https://navneet-vishwakarma-portfolio.netlify.app/)<br><br>
 <h3 align="left">Interests </h3>
 🌐 Web Development  </br>
 📱 Mobile App Development </br> 
