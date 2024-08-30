@@ -13,7 +13,7 @@
 📱 Mobile App Development </br> 
 🤖 Artificial Intelligence and Machine Learning </br>
 <h3 align="left">Skills</h3>
-🌟 Programming Languages: C, C++, Java, Python </br>
+🌟 Programming Languages: C, C++ </br>
 🌟 Web Technologies: HTML, CSS, JavaScript, React, Node.js </br>
 🌟 Databases: MySQL, MongoDB </br>
 🌟 Operating Systems: Windows, Linux, macOS </br>
