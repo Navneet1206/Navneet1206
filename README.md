@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navneet1206" alt="navneet1206" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/navneet84350610" target="blank"><img src="https://img.shields.io/twitter/follow/navneet84350610?logo=twitter&style=for-the-badge" alt="navneet84350610" /></a> </p>
+<p align="left"> <a href="https://twitter.com/navneet1206" target="blank"><img src="https://img.shields.io/twitter/follow/navneet1206?logo=twitter&style=for-the-badge" alt="navneet84350610" /></a> </p>
 
 - 🌱 I’m currently learning **Development and Algorithms Design**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/navneet84350610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="navneet84350610" height="30" width="40" /></a>
+<a href="https://twitter.com/navneet84350610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="navneet1206" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/navneet-vishwakarma-b678aa262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navneet-vishwakarma-b678aa262" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/navneet-vishwakarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="navneet-vishwakarma" height="30" width="40" /></a>
 <a href="https://fb.com/navneet.12.00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="navneet.12.00" height="30" width="40" /></a>
