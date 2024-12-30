@@ -39,7 +39,7 @@ Computer Science Engineering student with hands-on experience in full-stack deve
 <a href="mailto:rajvl132011@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-00384d?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a>
-<a href="https://instagram.com/navneet1204_"> 
+<a href="https://instagram.com/navneet1206_"> 
     <img src="https://img.shields.io/badge/Instagram-00384d?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
 <a href="https://www.leetcode.com/Navneet1206"> 
