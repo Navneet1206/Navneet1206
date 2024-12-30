@@ -1,35 +1,72 @@
-<h1 align="center">Hi 👋, I'm Navneet Vishwakarma</h1>
-<h3 align="center">A passionate problem solver as well as frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navneet1206&label=Profile%20views&color=0e75b6&style=flat" alt="navneet1206" /> </p>
+<h1 align="center">Hey there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Navneet this side!</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navneet1206" alt="navneet1206" /></a> </p>
+`A Passionate Problem Solver and Full-stack Developer from India.`
 
-<p align="left"> <a href="https://twitter.com/navneet1206" target="blank"><img src="https://img.shields.io/twitter/follow/navneet1206?logo=twitter&style=for-the-badge" alt="navneet84350610" /></a> </p>
-
-- 🌱 I’m currently learning **Development and Algorithms Design**
-
-- 👨‍💻 All of my projects are available at [https://navneet-vishwakarma-portfolio.netlify.app/](https://navneet-vishwakarma-portfolio.netlify.app/)
-
-- 💬 Ask me about **HTML,CSS,JS,C,C++**
-
-- 📫 How to reach me **rajvl132011@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/navneet84350610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="navneet1206" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/navneet-vishwakarma-b678aa262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navneet-vishwakarma-b678aa262" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/navneet-vishwakarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="navneet-vishwakarma" height="30" width="40" /></a>
-<a href="https://fb.com/navneet.12.00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="navneet.12.00" height="30" width="40" /></a>
-<a href="https://instagram.com/navneet_12_04_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navneet_12_04_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Navneet1206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="navneet-vish" height="30" width="40" /></a>
+<a href="#"><img src="assets/technologist.png" width="150"></a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=navneet1206&label=Profile%20views&color=0e75b6&style=flat" alt="navneet1206" /> </p>
+<p align="center">
+	<h2 align="center">DEVELOPER ▸ WEB - APP ◂ DESIGNER</h2>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+![🔄 GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=navneet1206&theme=react-dark&hide_border=true&area=true) <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navneet1206&show_icons=true&locale=en&layout=compact" alt="navneet1206" /></p>
+## 🙋🏻‍♂️ **About Me**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navneet1206&show_icons=true&locale=en" alt="navneet1206" /></p>
+Computer Science Engineering student with hands-on experience in full-stack development and blockchain technologies. I am a published researcher in facial recognition and have expertise in implementing secure software solutions. I actively contribute to open-source projects and develop innovative web applications.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navneet1206&" alt="navneet1206" /></p>
+- 🌱 I’m currently learning **Development and Algorithm Design**
+
+- 👨‍💻 All of my projects are available at [here](https://navneet-resume.netlify.app/)
+
+- 💬 Ask me about **HTML, CSS, JavaScript, C, C++**
+
+- 📫 How to reach me: **rajvl132011@gmail.com**
+
+</div><hr>
+
+<div align="center">
+
+## 🤝🏻 **CONNECT WITH ME**
+
+<a href="https://www.linkedin.com/in/Navneet1206/">
+    <img src="https://img.shields.io/badge/LinkedIn-00384d?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/navneet1206"> 
+    <img src="https://img.shields.io/badge/Twitter-00384d?style=for-the-badge&logo=x&logoColor=white" title="Twitter"  alt="Twitter"/>
+</a>
+<a href="mailto:rajvl132011@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-00384d?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
+</a>
+<a href="https://instagram.com/navneet_12_04_"> 
+    <img src="https://img.shields.io/badge/Instagram-00384d?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
+</a>
+<a href="https://www.leetcode.com/Navneet1206"> 
+    <img src="https://img.shields.io/badge/LeetCode-00384d?style=for-the-badge&logo=leetcode&logoColor=white" title="LeetCode"  alt="LeetCode"/>
+</a>
+<a href="https://fb.com/navneet.12.00"> 
+    <img src="https://img.shields.io/badge/Facebook-00384d?style=for-the-badge&logo=facebook&logoColor=white" title="Facebook"  alt="Facebook"/>
+</a>
+
+<img src="assets/hi.gif" width="150"><hr>
+
+<h3 align="center">📊 My Stats</h3>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=navneet1206&show_icons=true&rank_icon=github&border=true&border_color=ffffff&title_color=00ACC1&amp&icon_color=00ACC1&amp&text_color=FFFFFF&amp&bg_color=001233&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneet1206&show_icons=true&border=true&border_color=ffffff&text_color=FFFFFF&bg_color=001233&title_color=00ACC1&langs_count=15&layout=compact" />
+</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navneet1206&border=true&border_color=00ACC1&theme=algolia&disable_animations=true" alt="navneet1206" /></p>
+</p>
+</div> <hr>
+
+<div align="center">
+<a href="#"><img src="assets/githubgif.gif" width="150"></a>
+
+### **Thanks for checking out my GitHub Profile!**  
+
+ ## 💌 Sponser
+
+  [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=navneet1206&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/rajvl13201e)
+
+</div>
