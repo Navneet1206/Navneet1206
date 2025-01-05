@@ -66,8 +66,5 @@ Computer Science Engineering student with hands-on experience in full-stack deve
 
 ### **Thanks for checking out my GitHub Profile!**  
 
- ## 💌 Sponser
-
-  [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=navneet1206&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/rajvl13201e)
-
+ 
 </div>
