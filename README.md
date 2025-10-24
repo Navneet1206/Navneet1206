@@ -33,7 +33,6 @@
 <br>
 
 - 🎓 **Education**: B.Tech CSE, AKS University **(GPA: 8.21)**
-- 💼 **Current Role**: Co-Founder & CTO @ **SavayasHeal**
 - 🌱 **Currently Learning**: System Design, DevOps, Linux Internals
 - 🔬 **Research**: Published **IEEE paper** on facial recognition security
 - 💡 **Passionate About**: Building scalable backends, blockchain integration, ethical hacking platforms
