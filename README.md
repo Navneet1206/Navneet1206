@@ -216,13 +216,19 @@
 
 ---
 
-## 🏅 Certifications
+## 🏅 Certifications & Training
 
 - 📜 **NCVET** — Junior Software Developer
-- 🏆 **Hackverse 5.0**
+- 🏆 **Hackverse 5.0** — Competitive Hackathon Achievement
 - ☁️ **AWS** — Cloud Infrastructure Training on AWS
 - 💼 **Goldman Sachs** — Software Engineering Job Simulation
-- 🤖 **Claude Code in Action**
+- 🛡️ **Goldman Sachs Engineering** — Security Assessment & Vulnerability Analysis
+- 🤖 **Claude Code in Action** — AI-Assisted Engineering Workflows
+- 🐧 **Linux Administration Training (CX-501)** — Codenixia
+- 🔒 **Linux Server Hardening & Security Training (CX-701)** — Codenixia
+- 🏢 **Trainee Systems Engineer Certificate** — OS3 Infotech Pvt. Ltd.
+- 🇮🇳 **Skill India Certified** — Junior Software Developer (MERN Stack)
+- 🎯 **Hackathon Finalist** — Thrilex 2024, AKS University
 
 ---
 
