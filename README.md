@@ -75,7 +75,7 @@
 
 ### 🏢 **OS3 Infotech Pvt. Ltd.**
 **Trainee System Engineer Intern**  
-*August 2025 – April 2026 (9 months) | Navi Mumbai*
+*January 2026 – April 2026 (4 months) | Navi Mumbai*
 
 - 🐧 **Linux Server Management:** Managed Linux-based systems and enterprise server environments for critical internal applications and business operations.
 - 🔍 **Incident Resolution & RCA:** Performed real-time system monitoring, troubleshooting, deep log analysis, and issue resolution to ensure high service availability.
