@@ -1,15 +1,26 @@
 <div align="center">
-  <img src="./assets/header-banner.png" width="100%" alt="Navneet Vishwakarma - Linux Systems & DevOps Engineer" />
+  <img src="./assets/header-banner.png" width="100%" alt="Navneet Vishwakarma - Linux & DevOps Engineer" />
 
-  <br />
+  <br /><br />
+
+  <h1>⚡ NAVNEET VISHWAKARMA</h1>
+
+  <p>
+    <strong>Graduate Engineer Trainee (DevOps) &bull; Linux Systems Engineer &bull; Cloud Infrastructure &bull; SRE Practices</strong>
+  </p>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Graduate+Engineer+Trainee;Linux+System+Administrator;Cloud+and+DevOps+Engineer;Automation+with+Ansible+and+SaltStack;SRE+and+Infrastructure+Support" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Graduate+Engineer+Trainee+(DevOps);Linux+System+Administrator+%26+Technical+Support;Configuration+Management+with+Ansible+%26+SaltStack;Cloud+Infrastructure+Provisioning+on+AWS+%26+Docker;SRE+Practices%2C+Root+Cause+Analysis+%26+Automation" alt="Typing SVG" />
   </a>
 
+  <br /><br />
 
   <p align="center">
-    <em>Building dependable systems, hardening Linux servers, automating infrastructure, and driving SRE practices.</em>
+    <img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-00C853?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/FOCUS-LINUX_SYSADMIN_%26_DEVOPS-00BCD4?style=for-the-badge&logo=linux&logoColor=white" alt="Focus" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/LOCATION-SATNA%2C_MP%2C_INDIA-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
 
   <p align="center">
@@ -37,30 +48,107 @@
       <img src="https://komarev.com/ghpvc/?username=navneet1206&label=Profile%20Views&color=0284c7&style=for-the-badge" alt="Profile views" />
     </a>
   </p>
+
+  <p align="center">
+    <a href="#-system-telemetry"><b>Telemetry</b></a> ◆
+    <a href="#-quick-snapshot"><b>Snapshot</b></a> ◆
+    <a href="#-experience-timeline"><b>Experience</b></a> ◆
+    <a href="#-technical-skills--matrix"><b>Skills</b></a> ◆
+    <a href="#-featured-projects"><b>Projects</b></a> ◆
+    <a href="#-certifications--training"><b>Certifications</b></a> ◆
+    <a href="#-research--publications"><b>Research</b></a> ◆
+    <a href="#-github-analytics-command-center"><b>Analytics</b></a> ◆
+    <a href="#-connect-with-me"><b>Connect</b></a>
+  </p>
 </div>
 
 ---
 
-## 👨‍💻 Professional Summary
+## 🖥️ System Telemetry
+
+```bash
+navneet@suse-node01:~$ neofetch --devops
+      .---.        OS: SUSE Linux Enterprise Server 15 SP5 / Ubuntu LTS
+     /     \       Host: Cloud & Hybrid Infrastructure (AWS / On-Prem)
+    | () () |      Kernel: 6.x-hardened-linux (CIS Benchmark Level 2)
+     \  _  /       Uptime: 2+ Years Active System & DevOps Engineering
+      / \ \        Shell: GNU Bash 5.2 / Ansible Automation Engine
+     /|   |\       Packages: Docker, SaltStack, AWS-CLI, Git, Nginx, Systemd
+    [_|___|_]      SRE Mindset: High Availability (99.9%) • Zero-Touch CI/CD
+                   Target Roles: Linux Support / SysAdmin / Junior DevOps / SRE
+```
+
+---
+
+## ⚡ Quick Snapshot
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="16%">
+        <img src="https://img.shields.io/badge/Degree-B.Tech_CSE-38bdf8?style=flat-square&logo=graduationcap" alt="Degree" />
+        <br>
+        <strong>AKS University</strong><br>
+        <small>Computer Science (2026)</small>
+      </td>
+      <td align="center" width="16%">
+        <img src="https://img.shields.io/badge/Linux-SLES_%7C_Ubuntu-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+        <br>
+        <strong>Core Administration</strong><br>
+        <small>Hardening & Config</small>
+      </td>
+      <td align="center" width="16%">
+        <img src="https://img.shields.io/badge/Automation-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Automation" />
+        <br>
+        <strong>Configuration Mgmt</strong><br>
+        <small>Ansible & SaltStack</small>
+      </td>
+      <td align="center" width="16%">
+        <img src="https://img.shields.io/badge/Cloud-AWS_%7C_Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Cloud" />
+        <br>
+        <strong>Cloud & DevOps</strong><br>
+        <small>CI/CD & Containers</small>
+      </td>
+      <td align="center" width="16%">
+        <img src="https://img.shields.io/badge/Research-9.7_Score-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="Research" />
+        <br>
+        <strong>IEEE Author</strong><br>
+        <small>206+ Reads | 2 Papers</small>
+      </td>
+      <td align="center" width="16%">
+        <img src="https://img.shields.io/badge/Activity-3.7k+_Contribs-fe428e?style=flat-square&logo=github&logoColor=white" alt="Activity" />
+        <br>
+        <strong>Active Builder</strong><br>
+        <small>Continuous Committer</small>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 👨‍💻 Professional Profile
 
 <table>
   <tr>
     <td width="65%" valign="top">
       <p>
-        I am a <strong>Computer Science Engineering student</strong> with a strong focus on <strong>Linux System Administration</strong>, <strong>Technical Support</strong>, and <strong>Infrastructure Management</strong>.
+        I am a <strong>Computer Science Engineering student</strong> with dedicated industry experience in <strong>Linux System Administration</strong>, <strong>Technical Support</strong>, and <strong>Enterprise Infrastructure Automation</strong>.
       </p>
       <p>
-        I possess hands-on industry experience working with enterprise Linux environments including <strong>SUSE Linux Enterprise Server (SLES)</strong>, <strong>Ubuntu</strong>, and <strong>openSUSE</strong>. My core expertise covers system administration, troubleshooting, log analysis, shell scripting, server hardening, configuration management, and automation using <strong>Ansible</strong> and <strong>SaltStack</strong>.
+        My hands-on experience covers enterprise Linux environments including <strong>SUSE Linux Enterprise Server (SLES)</strong>, <strong>Ubuntu</strong>, and <strong>openSUSE</strong>. My core technical strengths focus on system hardening, log diagnostics, shell scripting, automation with <strong>Ansible</strong> and <strong>SaltStack</strong>, and AWS cloud provisioning.
       </p>
       <p>
-        I thrive on solving complex technical challenges, investigating production issues through root-cause analysis (RCA), and continuously strengthening system reliability and security. Currently open for roles as:
-        <br />
-        🎯 <strong>Linux System Administrator | Linux Support Engineer | Technical Support Engineer | Infrastructure Support Engineer | Junior DevOps Engineer</strong>
+        I specialize in resolving operational bottlenecks, conducting structured <strong>Root Cause Analysis (RCA)</strong> on production incidents, and implementing preventive SRE runbooks to maximize uptime and operational reliability.
+      </p>
+      <p>
+        🎯 <strong>Actively targeting roles:</strong><br />
+        <code>Linux System Administrator</code> • <code>Linux Support Engineer</code> • <code>Technical Support Engineer</code> • <code>Infrastructure Support Engineer</code> • <code>Junior DevOps Engineer</code>
       </p>
       <ul>
-        <li>📍 <strong>Location:</strong> Satna, Madhya Pradesh, India</li>
-        <li>🎓 <strong>Education:</strong> B.Tech in CSE — AKS University, Satna</li>
-        <li>📬 <strong>Contact:</strong> <a href="mailto:rajvl132011@gmail.com">rajvl132011@gmail.com</a></li>
+        <li>📍 <strong>Base:</strong> Satna, Madhya Pradesh, India</li>
+        <li>🎓 <strong>Education:</strong> B.Tech in CSE — AKS University, Satna <em>(2022 – 2026)</em></li>
+        <li>📬 <strong>Direct Inquiries:</strong> <a href="mailto:rajvl132011@gmail.com">rajvl132011@gmail.com</a></li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
@@ -71,20 +159,23 @@
 
 ---
 
-## 💼 Work Experience
+## 💼 Experience Timeline
 
 ### 🏢 **OS3 Infotech Pvt. Ltd.**
 **Trainee System Engineer Intern**  
 *January 2026 – April 2026 (4 months) | Navi Mumbai*
 
-- 🐧 **Linux Server Management:** Managed Linux-based systems and enterprise server environments for critical internal applications and business operations.
-- 🔍 **Incident Resolution & RCA:** Performed real-time system monitoring, troubleshooting, deep log analysis, and issue resolution to ensure high service availability.
-- ⚙️ **Configuration & Deployment:** Assisted in server configuration, system provisioning, package management, and system administration across Linux distributions.
-- 📜 **Automation with Shell & Ansible:** Utilized shell scripting and **Ansible** for configuration management, automating routine operational maintenance and repetitive admin tasks.
-- 🛡️ **Security Hardening:** Implemented Linux security best practices, system updates, user access controls, and routine patch maintenance.
-- 🐳 **Docker Environments:** Maintained and managed Docker-based environments for seamless application deployment and testing workflows.
-- 🌐 **Infrastructure & Hosting:** Supported core infrastructure maintenance, application hosting, and website management activities.
-- 📝 **Documentation & SOPs:** Authored comprehensive technical documentation, troubleshooting playbooks, and standard operational procedures (SOPs).
+```
+[SUSE Linux Enterprise Server] [Ansible Automation] [Docker] [Server Hardening] [RCA Diagnostics]
+```
+
+- 🐧 **Linux Server Management:** Administered Linux systems and enterprise server environments powering internal business operations and applications.
+- 🔍 **Incident Resolution & RCA:** Performed real-time telemetry monitoring, troubleshooting, deep log analysis, and incident resolution for maximum service availability.
+- ⚙️ **Configuration & Provisioning:** Handled server configuration, automated system deployment, package management, and Linux administrative routines.
+- 📜 **Automation with Shell & Ansible:** Created reusable shell scripts and **Ansible playbooks** for configuration management and operational automation.
+- 🛡️ **Security Hardening:** Implemented Linux security baselines, firewall rules, user privilege restrictions, and routine maintenance patching.
+- 🐳 **Docker Environments:** Managed containerized Docker environments for application testing and deployment workflows.
+- 📝 **Documentation & SOPs:** Maintained technical documentation, troubleshooting runbooks, and Standard Operating Procedures (SOPs).
 
 <br />
 
@@ -92,19 +183,22 @@
 **Cloud & DevOps Engineering Intern**  
 *September 2025 – December 2025 (4 months) | Remote*
 
-- ☁️ **AWS Cloud Services:** Provisioned and managed AWS infrastructure including compute services (EC2), networking (VPC, Subnets, Security Groups), and storage (S3).
-- 🚀 **CI/CD Pipelines:** Built and deployed automated continuous integration and continuous delivery (CI/CD) pipelines to streamline software releases.
-- 🐧 **Linux Administration:** Handled Linux server deployment, process lifecycle management, networking configurations, and performance optimization.
-- 🛠️ **DevOps & Automation:** Developed and tested practical cloud projects using modern DevOps methodologies, Git, and automated shell scripts.
-- 📦 **Production Delivery:** Learned and applied production-ready deployment practices, infrastructure provisioning, and automation workflows.
+```
+[AWS Cloud (EC2/VPC/S3)] [CI/CD Pipelines] [Linux Administration] [Git/GitHub] [DevOps Best Practices]
+```
+
+- ☁️ **AWS Infrastructure:** Provisioned and managed AWS cloud resources across compute (EC2), networking (VPC, Subnets, Security Groups), and storage (S3).
+- 🚀 **Automated CI/CD:** Built automated continuous integration and continuous deployment pipelines for streamlined release cycles.
+- 🐧 **Linux Administration:** Managed Linux instances, system services, networking configuration, and performance optimization in cloud setups.
+- 🛠️ **DevOps Workflows:** Deployed practical cloud engineering projects applying Git collaboration, automation scripts, and SRE best practices.
 
 ---
 
-## 🛠️ Technical Skills & Tools
+## 🛠️ Technical Skills & Matrix
 
 <div align="center">
 
-### 🐧 Linux & Operating Systems
+### 🐧 Operating Systems & Core Infrastructure
 <p>
   <img src="https://img.shields.io/badge/SUSE_Linux_Enterprise-0C322C?style=for-the-badge&logo=suse&logoColor=white" alt="SUSE Linux Enterprise" />
   <img src="https://img.shields.io/badge/openSUSE-73BA25?style=for-the-badge&logo=opensuse&logoColor=white" alt="openSUSE" />
@@ -218,16 +312,29 @@
 
 ## 🏅 Certifications & Training
 
-- 📜 **NCVET** — Junior Software Developer
-- 🏆 **Hackverse 5.0** — Competitive Hackathon Achievement
-- 💼 **Goldman Sachs** — Software Engineering Job Simulation
-- 🛡️ **Goldman Sachs Engineering** — Security Assessment & Vulnerability Analysis
-- 🤖 **Claude Code in Action** — AI-Assisted Engineering Workflows
-- 🐧 **Linux Administration Training (CX-501)** — Codenixia
-- 🔒 **Linux Server Hardening & Security Training (CX-701)** — Codenixia
-- 🏢 **Trainee Systems Engineer Certificate** — OS3 Infotech Pvt. Ltd.
-- 🇮🇳 **Skill India Certified** — Junior Software Developer (MERN Stack)
-- 🎯 **Hackathon Finalist** — Thrilex 2024, AKS University
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📜 Government & Industry Credentials</h4>
+      <ul>
+        <li><strong>NCVET:</strong> Junior Software Developer</li>
+        <li><strong>Skill India Certified:</strong> Junior Software Developer (MERN Stack)</li>
+        <li><strong>Goldman Sachs:</strong> Software Engineering Job Simulation</li>
+        <li><strong>Goldman Sachs Engineering:</strong> Security Assessment & Vulnerability Analysis</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🐧 Specialized Systems & Engineering</h4>
+      <ul>
+        <li><strong>Codenixia (CX-501):</strong> Linux Administration Training</li>
+        <li><strong>Codenixia (CX-701):</strong> Linux Server Hardening & Security Training</li>
+        <li><strong>OS3 Infotech Pvt. Ltd.:</strong> Trainee Systems Engineer Certificate</li>
+        <li><strong>Claude Code in Action:</strong> AI-Assisted Engineering Workflows</li>
+        <li><strong>Hackverse 5.0 & Thrilex 2024:</strong> Competitive Hackathon Finalist</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -293,17 +400,32 @@
 
 ## 🎓 Education
 
-- 🏛️ **AKS University, Satna (M.P.)**  
-  *Bachelor of Technology - BTech, Computer Science*  
-  *(September 2022 – July 2026)*
-
-- 🏫 **Government Excellence Higher Secondary School Venkat 01 Satna**  
-  *Higher Secondary Education, Mathematics*  
-  *(August 2020 – August 2022)*
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>🏛️ AKS University, Satna (M.P.)</h3>
+      <p><strong>Bachelor of Technology — B.Tech, Computer Science & Engineering</strong></p>
+      <p><em>September 2022 – July 2026</em></p>
+      <ul>
+        <li>Specialization: Systems Engineering, Linux Administration, DevOps, Operating Systems</li>
+        <li>Active Researcher & Hackathon Finalist</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top">
+      <h3>🏫 Govt. Excellence HSS Venkat 01 Satna</h3>
+      <p><strong>Higher Secondary Education (Class XII)</strong></p>
+      <p><em>August 2020 – August 2022</em></p>
+      <ul>
+        <li>Discipline: Mathematics & Science</li>
+        <li>Academic Excellence</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics Command Center
 
 <div align="center">
   <table border="0">
@@ -327,16 +449,16 @@
 
   <br /><br />
 
-  <h3>📅 Contribution Activity Graph</h3>
+  <h3>📅 1-Year Contribution Activity Heatmap</h3>
   <img src="https://ghchart.rshah.org/fe428e/navneet1206" alt="Navneet's GitHub Contributions Chart" width="95%" />
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
-  <p>Open to discussions on Linux Administration, Cloud Infrastructure, SRE Practices, and DevOps Opportunities!</p>
+  <p><strong>Interested in collaborating, hiring, or discussing Linux administration and DevOps infrastructure? Let's connect!</strong></p>
 
   <a href="https://www.linkedin.com/in/navneet1206">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
