@@ -220,7 +220,6 @@
 
 - 📜 **NCVET** — Junior Software Developer
 - 🏆 **Hackverse 5.0** — Competitive Hackathon Achievement
-- ☁️ **AWS** — Cloud Infrastructure Training on AWS
 - 💼 **Goldman Sachs** — Software Engineering Job Simulation
 - 🛡️ **Goldman Sachs Engineering** — Security Assessment & Vulnerability Analysis
 - 🤖 **Claude Code in Action** — AI-Assisted Engineering Workflows
