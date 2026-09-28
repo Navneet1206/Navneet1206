@@ -3,9 +3,10 @@
 
   <br />
 
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=🐧+Graduate+Engineer+Trainee+(DevOps);🛡️+Linux+System+Administrator+%26+Infrastructure+Support;⚙️+Configuration+Management+%7C+Ansible+%26+SaltStack;☁️+Cloud+Infrastructure+on+AWS+%26+Docker;🚀+CI%2FCD+Pipelines+%7C+Automation+%7C+SRE+Practices" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Graduate+Engineer+Trainee;Linux+System+Administrator;Cloud+and+DevOps+Engineer;Automation+with+Ansible+and+SaltStack;SRE+and+Infrastructure+Support" alt="Typing SVG" />
   </a>
+
 
   <p align="center">
     <em>Building dependable systems, hardening Linux servers, automating infrastructure, and driving SRE practices.</em>
