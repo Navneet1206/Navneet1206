@@ -428,6 +428,12 @@ navneet@suse-node01:~$ neofetch --devops
 ## 📊 GitHub Analytics Command Center
 
 <div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=navneet1206&theme=radical" alt="GitHub Profile Trophies" />
+  </a>
+
+  <br /><br />
+
   <table border="0">
     <tr>
       <td align="center">
