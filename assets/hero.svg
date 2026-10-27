@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-labelledby="t d">
+  <title id="t">Navneet Vishwakarma</title>
+  <desc id="d">Linux Systems, DevOps, Cloud Infrastructure and SRE engineer</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b18"/>
+      <stop offset=".55" stop-color="#0b1226"/>
+      <stop offset="1" stop-color="#120a24"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e0f2fe"/>
+      <stop offset=".45" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset=".5" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity=".35"/>
+    </linearGradient>
+    <radialGradient id="orbA"><stop offset="0" stop-color="#38bdf8" stop-opacity=".35"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+    <radialGradient id="orbB"><stop offset="0" stop-color="#a78bfa" stop-opacity=".30"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#94a3b8" fill-opacity=".12"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="400" rx="22"/></clipPath>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <style>
+    .mono{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace}
+    .sans{font-family:'Segoe UI',Inter,'Helvetica Neue',Helvetica,Arial,sans-serif}
+    .rise{animation:rise .9s cubic-bezier(.2,.8,.2,1) backwards}
+    .d1{animation-delay:.15s}.d2{animation-delay:.45s}.d3{animation-delay:.75s}.d4{animation-delay:1.05s}.d5{animation-delay:1.35s}
+    @keyframes rise{from{opacity:0;transform:translateY(14px)}}
+    .pulse{animation:pulse 1.8s ease-in-out infinite}
+    @keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+    .blink{animation:blink 1.05s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+    .orb1{animation:drift 9s ease-in-out infinite alternate}
+    .orb2{animation:drift 11s ease-in-out infinite alternate-reverse}
+    @keyframes drift{from{transform:translate(0,0)}to{transform:translate(40px,-24px)}}
+    .scan{animation:scan 6s linear infinite}
+    @keyframes scan{from{transform:translateY(-60px)}to{transform:translateY(420px)}}
+    .flow{stroke-dasharray:6 10;animation:flow 1.6s linear infinite}
+    @keyframes flow{to{stroke-dashoffset:-32}}
+    .node{animation:node 3s ease-in-out infinite}
+    .n2{animation-delay:.6s}.n3{animation-delay:1.2s}.n4{animation-delay:1.8s}.n5{animation-delay:2.4s}
+    @keyframes node{0%,100%{stroke-opacity:.45}50%{stroke-opacity:1}}
+    .grid{animation:grid 2.4s linear infinite}
+    @keyframes grid{from{transform:translateY(0)}to{transform:translateY(22px)}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="400" fill="url(#bg)"/>
+    <rect width="1200" height="400" fill="url(#dots)"/>
+    <circle class="orb1" cx="240" cy="90" r="260" fill="url(#orbA)"/>
+    <circle class="orb2" cx="980" cy="300" r="280" fill="url(#orbB)"/>
+
+    <!-- floor grid -->
+    <g opacity=".5">
+      <g class="grid" stroke="#38bdf8" stroke-opacity=".22">
+        <line x1="0" y1="318" x2="1200" y2="318"/><line x1="0" y1="340" x2="1200" y2="340"/>
+        <line x1="0" y1="362" x2="1200" y2="362"/><line x1="0" y1="384" x2="1200" y2="384"/>
+        <line x1="0" y1="406" x2="1200" y2="406"/>
+      </g>
+      <g stroke="#a78bfa" stroke-opacity=".18">
+        <line x1="600" y1="300" x2="-200" y2="420"/><line x1="600" y1="300" x2="100" y2="420"/>
+        <line x1="600" y1="300" x2="400" y2="420"/><line x1="600" y1="300" x2="600" y2="420"/>
+        <line x1="600" y1="300" x2="800" y2="420"/><line x1="600" y1="300" x2="1100" y2="420"/>
+        <line x1="600" y1="300" x2="1400" y2="420"/>
+      </g>
+      <rect y="296" width="1200" height="104" fill="url(#bg)" opacity=".35"/>
+    </g>
+
+    <!-- scanline -->
+    <rect class="scan" x="0" y="0" width="1200" height="60" fill="url(#fade)" opacity=".18"/>
+
+    <!-- left: identity -->
+    <g class="rise d1">
+      <rect x="64" y="58" width="318" height="32" rx="16" fill="#0f172a" stroke="#22c55e" stroke-opacity=".55"/>
+      <circle class="pulse" cx="86" cy="74" r="5" fill="#22c55e"/>
+      <text x="100" y="79" class="mono" font-size="13" font-weight="700" fill="#86efac" letter-spacing="1.2">OPEN TO LINUX · DEVOPS · SRE</text>
+    </g>
+    <text x="62" y="160" class="sans rise d2" font-size="60" font-weight="800" fill="url(#name)" letter-spacing="1">NAVNEET</text>
+    <text x="62" y="222" class="sans rise d2" font-size="60" font-weight="300" fill="#e2e8f0" letter-spacing="1">VISHWAKARMA</text>
+    <text x="64" y="262" class="sans rise d3" font-size="18" fill="#94a3b8" letter-spacing=".6">Graduate Engineer Trainee (DevOps)  ·  Linux Systems  ·  Cloud  ·  SRE</text>
+    <g class="rise d4">
+      <text x="64" y="304" class="mono" font-size="16"><tspan fill="#22c55e">navneet@sles</tspan><tspan fill="#64748b">:</tspan><tspan fill="#38bdf8">~</tspan><tspan fill="#64748b">$ </tspan><tspan fill="#e2e8f0">ansible-playbook harden.yml --limit prod </tspan><tspan class="blink" fill="#38bdf8">▋</tspan></text>
+    </g>
+
+    <!-- right: infra graph -->
+    <g transform="translate(760 60)"><g class="rise d5">
+      <g fill="none" stroke="url(#edge)" stroke-width="2" stroke-linecap="round">
+        <path class="flow" d="M180 120 L60 40"/>
+        <path class="flow" d="M180 120 L320 40"/>
+        <path class="flow" d="M180 120 L40 200"/>
+        <path class="flow" d="M180 120 L330 205"/>
+        <path class="flow" d="M180 120 L180 250"/>
+      </g>
+      <!-- core -->
+      <g filter="url(#glow)">
+        <rect x="120" y="86" width="120" height="68" rx="14" fill="#0b1226" stroke="#38bdf8" stroke-width="2"/>
+      </g>
+      <g fill="#38bdf8"><rect x="134" y="100" width="92" height="8" rx="3" fill-opacity=".25"/><rect x="134" y="114" width="92" height="8" rx="3" fill-opacity=".25"/><rect x="134" y="128" width="92" height="8" rx="3" fill-opacity=".25"/></g>
+      <circle class="pulse" cx="220" cy="104" r="3" fill="#22c55e"/>
+      <circle class="pulse" cx="220" cy="118" r="3" fill="#22c55e" style="animation-delay:.4s"/>
+      <circle class="pulse" cx="220" cy="132" r="3" fill="#f59e0b" style="animation-delay:.8s"/>
+      <text x="180" y="174" text-anchor="middle" class="mono" font-size="11" fill="#7dd3fc" letter-spacing="1">SLES-NODE01</text>
+      <!-- satellites -->
+      <g class="mono" font-size="12" font-weight="700" text-anchor="middle">
+        <g class="node"><rect x="10" y="20" width="100" height="40" rx="10" fill="#0f172a" stroke="#ee0000" stroke-width="1.5"/><text x="60" y="45" fill="#fca5a5">ANSIBLE</text></g>
+        <g class="node n2"><rect x="270" y="20" width="100" height="40" rx="10" fill="#0f172a" stroke="#2496ed" stroke-width="1.5"/><text x="320" y="45" fill="#93c5fd">DOCKER</text></g>
+        <g class="node n3"><rect x="-10" y="180" width="100" height="40" rx="10" fill="#0f172a" stroke="#f59e0b" stroke-width="1.5"/><text x="40" y="205" fill="#fcd34d">AWS</text></g>
+        <g class="node n4"><rect x="280" y="185" width="100" height="40" rx="10" fill="#0f172a" stroke="#a78bfa" stroke-width="1.5"/><text x="330" y="210" fill="#c4b5fd">CI/CD</text></g>
+        <g class="node n5"><rect x="130" y="240" width="100" height="40" rx="10" fill="#0f172a" stroke="#22c55e" stroke-width="1.5"/><text x="180" y="265" fill="#86efac">SALTSTACK</text></g>
+      </g>
+    </g></g>
+
+    <rect x="1" y="1" width="1198" height="398" rx="21" fill="none" stroke="url(#edge)" stroke-opacity=".55" stroke-width="2"/>
+  </g>
+</svg>

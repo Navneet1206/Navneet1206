@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 130" width="1200" height="130" role="img" aria-labelledby="t">
+  <title id="t">2 Linux/DevOps internships · 2 research papers · 2× hackathon finalist · B.Tech CSE 2026</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1226"/><stop offset="1" stop-color="#120a24"/></linearGradient>
+    <linearGradient id="num" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e0f2fe"/><stop offset=".5" stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+  </defs>
+  <style>
+    .c{animation:up .7s cubic-bezier(.2,.8,.2,1) backwards}
+    .c2{animation-delay:.15s}.c3{animation-delay:.3s}.c4{animation-delay:.45s}
+    @keyframes up{from{opacity:0;transform:translateY(10px)}}
+    .bar{transform-box:fill-box;transform-origin:left;animation:bar 1.2s .6s ease-out backwards}
+    @keyframes bar{from{transform:scaleX(0)}}
+    .n{font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif;font-size:40px;font-weight:800}
+    .l{font-family:'JetBrains Mono','Fira Code',Consolas,monospace;font-size:13px;fill:#94a3b8;letter-spacing:1.2px}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <g class="c"><g transform="translate(0 0)">
+    <rect x="4" y="4" width="282" height="122" rx="16" fill="url(#bg)" stroke="#38bdf8" stroke-opacity=".35"/>
+    <text x="30" y="62" class="n" fill="url(#num)">2</text>
+    <text x="30" y="92" class="l">LINUX / DEVOPS INTERNSHIPS</text>
+    <rect class="bar" x="30" y="106" width="120" height="3" rx="1.5" fill="#38bdf8"/>
+  </g></g>
+  <g class="c c2"><g transform="translate(305 0)">
+    <rect x="4" y="4" width="282" height="122" rx="16" fill="url(#bg)" stroke="#a78bfa" stroke-opacity=".35"/>
+    <text x="30" y="62" class="n" fill="url(#num)">2</text>
+    <text x="30" y="92" class="l">PUBLISHED RESEARCH PAPERS</text>
+    <rect class="bar" x="30" y="106" width="120" height="3" rx="1.5" fill="#a78bfa"/>
+  </g></g>
+  <g class="c c3"><g transform="translate(610 0)">
+    <rect x="4" y="4" width="282" height="122" rx="16" fill="url(#bg)" stroke="#f472b6" stroke-opacity=".35"/>
+    <text x="30" y="62" class="n" fill="url(#num)">2×</text>
+    <text x="30" y="92" class="l">HACKATHON FINALIST</text>
+    <rect class="bar" x="30" y="106" width="120" height="3" rx="1.5" fill="#f472b6"/>
+  </g></g>
+  <g class="c c4"><g transform="translate(915 0)">
+    <rect x="4" y="4" width="282" height="122" rx="16" fill="url(#bg)" stroke="#22c55e" stroke-opacity=".35"/>
+    <text x="30" y="62" class="n" fill="url(#num)">2026</text>
+    <text x="30" y="92" class="l">B.TECH CSE GRADUATE</text>
+    <rect class="bar" x="30" y="106" width="120" height="3" rx="1.5" fill="#22c55e"/>
+  </g></g>
+</svg>

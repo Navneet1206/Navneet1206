@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" width="900" height="430" role="img" aria-labelledby="t d">
+  <title id="t">navneet@sles-node01 — whoami --verbose</title>
+  <desc id="d">Role: Graduate Engineer Trainee (DevOps). Focus: Linux administration, automation, cloud, SRE. Distros: SLES 15, openSUSE, Ubuntu, Debian. Automation: Ansible, SaltStack, Bash. Cloud: AWS and Docker. CI/CD: GitHub Actions and Git. Practice: RCA, runbooks, hardening, monitoring. Education: B.Tech CSE, AKS University 2022 to 2026. Status: open to Linux, DevOps and SRE roles.</desc>
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+    <clipPath id="win"><rect width="900" height="430" rx="16"/></clipPath>
+  </defs>
+  <style>
+    text{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace;font-size:15px}
+    .k{fill:#7dd3fc}.v{fill:#e2e8f0}.m{fill:#64748b}.g{fill:#22c55e}.b{fill:#38bdf8}.p{fill:#c4b5fd}.y{fill:#fcd34d}
+    .ln{animation:in .35s ease-out backwards}
+    @keyframes in{from{opacity:0;transform:translateX(-6px)}}
+    .typer{transform:translateX(330px);animation:type 1.4s steps(18) .3s backwards}
+    @keyframes type{from{transform:none}}
+    .blink{animation:blink 1.05s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+    .pulse{animation:pulse 1.6s ease-in-out infinite}
+    @keyframes pulse{50%{opacity:.25}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}.typer{display:none}}
+  </style>
+  <g clip-path="url(#win)">
+    <rect width="900" height="430" fill="#0a0f1e"/>
+    <rect width="900" height="40" fill="#111833"/>
+    <circle cx="24" cy="20" r="6.5" fill="#ff5f57"/><circle cx="46" cy="20" r="6.5" fill="#febc2e"/><circle cx="68" cy="20" r="6.5" fill="#28c840"/>
+    <text x="450" y="25" text-anchor="middle" class="m" style="font-size:13px">navneet@sles-node01: ~ — bash</text>
+
+    <!-- command, revealed by a sliding cover -->
+    <text x="28" y="78"><tspan class="g">navneet@sles-node01</tspan><tspan class="m">:</tspan><tspan class="b">~</tspan><tspan class="m">$ </tspan><tspan class="v">whoami --verbose</tspan></text>
+    <rect class="typer" x="232" y="60" width="330" height="26" fill="#0a0f1e"/>
+
+    <g transform="translate(28 0)">
+      <text class="ln" y="116" style="animation-delay:1.8s"><tspan class="k">role</tspan><tspan class="v" x="128">Graduate Engineer Trainee (DevOps)</tspan></text>
+      <text class="ln" y="142" style="animation-delay:2.0s"><tspan class="k">focus</tspan><tspan class="v" x="128">Linux Admin · Automation · Cloud · SRE</tspan></text>
+      <text class="ln" y="168" style="animation-delay:2.2s"><tspan class="k">distros</tspan><tspan class="v" x="128">SLES 15 · openSUSE · Ubuntu · Debian</tspan></text>
+      <text class="ln" y="194" style="animation-delay:2.4s"><tspan class="k">automation</tspan><tspan class="v" x="128">Ansible · SaltStack · Bash</tspan></text>
+      <text class="ln" y="220" style="animation-delay:2.6s"><tspan class="k">cloud</tspan><tspan class="v" x="128">AWS (EC2 · VPC · S3 · IAM) · Docker</tspan></text>
+      <text class="ln" y="246" style="animation-delay:2.8s"><tspan class="k">ci/cd</tspan><tspan class="v" x="128">GitHub Actions · Git</tspan></text>
+      <text class="ln" y="272" style="animation-delay:3.0s"><tspan class="k">practice</tspan><tspan class="v" x="128">RCA · runbooks · hardening · monitoring</tspan></text>
+      <text class="ln" y="298" style="animation-delay:3.2s"><tspan class="k">education</tspan><tspan class="v" x="128">B.Tech CSE — AKS University (2022–26)</tspan></text>
+      <text class="ln" y="324" style="animation-delay:3.4s"><tspan class="k">research</tspan><tspan class="p" x="128">2 papers · biometric anti-spoofing (DL)</tspan></text>
+      <g class="ln" style="animation-delay:3.6s">
+        <text y="350"><tspan class="k">status</tspan><tspan class="g" x="146">open to Linux / DevOps / SRE roles</tspan></text>
+        <circle class="pulse" cx="134" cy="345" r="5" fill="#22c55e"/>
+      </g>
+      <text class="ln" y="394" style="animation-delay:4.0s"><tspan class="g">navneet@sles-node01</tspan><tspan class="m">:</tspan><tspan class="b">~</tspan><tspan class="m">$ </tspan><tspan class="b blink">▋</tspan></text>
+    </g>
+    <rect x="1" y="1" width="898" height="428" rx="15" fill="none" stroke="url(#edge)" stroke-opacity=".5" stroke-width="2"/>
+  </g>
+</svg>

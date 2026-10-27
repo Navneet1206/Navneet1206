@@ -1,10 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="100%" height="60" preserveAspectRatio="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="100%" height="90" preserveAspectRatio="none">
   <defs>
     <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00bcd4" stop-opacity="0.8"/>
-      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#fe428e" stop-opacity="0.8"/>
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#f472b6"/>
     </linearGradient>
   </defs>
-  <path fill="url(#waveGrad)" d="M0,0 C150,90 350,-40 500,45 C650,130 900,10 1200,60 L1200,120 L0,120 Z"></path>
+  <style>
+    .w1{animation:sway 7s ease-in-out infinite alternate}
+    .w2{animation:sway 9s ease-in-out infinite alternate-reverse}
+    @keyframes sway{from{transform:translateX(0)}to{transform:translateX(-200px)}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <path class="w2" fill="url(#waveGrad)" fill-opacity=".35" d="M0,50 C150,10 300,90 450,50 C600,10 750,90 900,50 C1050,10 1200,90 1350,50 C1400,38 1400,38 1400,38 L1400,120 L0,120 Z"/>
+  <path class="w1" fill="url(#waveGrad)" fill-opacity=".85" d="M0,70 C150,110 300,30 450,70 C600,110 750,30 900,70 C1050,110 1200,30 1350,70 C1400,82 1400,82 1400,82 L1400,120 L0,120 Z"/>
 </svg>

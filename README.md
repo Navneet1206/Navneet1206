@@ -1,496 +1,328 @@
 <div align="center">
-  <img src="./assets/header-banner.png" width="100%" alt="Navneet Vishwakarma - Linux & DevOps Engineer" />
 
-  <br /><br />
+<a href="https://www.linkedin.com/in/navneet1206">
+  <img src="./assets/hero.svg" width="100%" alt="Navneet Vishwakarma — Graduate Engineer Trainee (DevOps) · Linux Systems · Cloud · SRE" />
+</a>
 
-  <h1>⚡ NAVNEET VISHWAKARMA</h1>
-
-  <p>
-    <strong>Graduate Engineer Trainee (DevOps) &bull; Linux Systems Engineer &bull; Cloud Infrastructure &bull; SRE Practices</strong>
-  </p>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Graduate+Engineer+Trainee+(DevOps);Linux+System+Administrator+%26+Technical+Support;Configuration+Management+with+Ansible+%26+SaltStack;Cloud+Infrastructure+Provisioning+on+AWS+%26+Docker;SRE+Practices%2C+Root+Cause+Analysis+%26+Automation" alt="Typing SVG" />
-  </a>
-
-  <br /><br />
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-00C853?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/FOCUS-LINUX_SYSADMIN_%26_DEVOPS-00BCD4?style=for-the-badge&logo=linux&logoColor=white" alt="Focus" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/LOCATION-SATNA%2C_MP%2C_INDIA-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  </p>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/navneet1206">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/Navneet1206">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    &nbsp;
-    <a href="https://devfolio.co/@Navneet1206">
-      <img src="https://img.shields.io/badge/Devfolio-3770FF?style=for-the-badge&logo=devfolio&logoColor=white" alt="Devfolio" />
-    </a>
-    &nbsp;
-    <a href="https://www.researchgate.net/profile/Navneet-Vishwakarma">
-      <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
-    </a>
-    &nbsp;
-    <a href="mailto:rajvl132011@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    &nbsp;
-    <a href="https://komarev.com/ghpvc/?username=navneet1206&label=Profile%20Views&color=0284c7&style=for-the-badge">
-      <img src="https://komarev.com/ghpvc/?username=navneet1206&label=Profile%20Views&color=0284c7&style=for-the-badge" alt="Profile views" />
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="#-system-telemetry"><b>Telemetry</b></a> ◆
-    <a href="#-quick-snapshot"><b>Snapshot</b></a> ◆
-    <a href="#-experience-timeline"><b>Experience</b></a> ◆
-    <a href="#-technical-skills--matrix"><b>Skills</b></a> ◆
-    <a href="#-featured-projects"><b>Projects</b></a> ◆
-    <a href="#-certifications--training"><b>Certifications</b></a> ◆
-    <a href="#-research--publications"><b>Research</b></a> ◆
-    <a href="#-github-analytics-command-center"><b>Analytics</b></a> ◆
-    <a href="#-connect-with-me"><b>Connect</b></a>
-  </p>
-</div>
-
----
-
-## 🖥️ System Telemetry
-
-```bash
-navneet@suse-node01:~$ neofetch --devops
-      .---.        OS: SUSE Linux Enterprise Server 15 SP5 / Ubuntu LTS
-     /     \       Host: Cloud & Hybrid Infrastructure (AWS / On-Prem)
-    | () () |      Kernel: 6.x-hardened-linux (CIS Benchmark Level 2)
-     \  _  /       Uptime: 2+ Years Active System & DevOps Engineering
-      / \ \        Shell: GNU Bash 5.2 / Ansible Automation Engine
-     /|   |\       Packages: Docker, SaltStack, AWS-CLI, Git, Nginx, Systemd
-    [_|___|_]      SRE Mindset: High Availability (99.9%) • Zero-Touch CI/CD
-                   Target Roles: Linux Support / SysAdmin / Junior DevOps / SRE
-```
-
----
-
-## ⚡ Quick Snapshot
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="16%">
-        <img src="https://img.shields.io/badge/Degree-B.Tech_CSE-38bdf8?style=flat-square&logo=graduationcap" alt="Degree" />
-        <br>
-        <strong>AKS University</strong><br>
-        <small>Computer Science (2026)</small>
-      </td>
-      <td align="center" width="16%">
-        <img src="https://img.shields.io/badge/Linux-SLES_%7C_Ubuntu-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-        <br>
-        <strong>Core Administration</strong><br>
-        <small>Hardening & Config</small>
-      </td>
-      <td align="center" width="16%">
-        <img src="https://img.shields.io/badge/Automation-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Automation" />
-        <br>
-        <strong>Configuration Mgmt</strong><br>
-        <small>Ansible & SaltStack</small>
-      </td>
-      <td align="center" width="16%">
-        <img src="https://img.shields.io/badge/Cloud-AWS_%7C_Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Cloud" />
-        <br>
-        <strong>Cloud & DevOps</strong><br>
-        <small>CI/CD & Containers</small>
-      </td>
-      <td align="center" width="16%">
-        <img src="https://img.shields.io/badge/Research-9.7_Score-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="Research" />
-        <br>
-        <strong>IEEE Author</strong><br>
-        <small>206+ Reads | 2 Papers</small>
-      </td>
-      <td align="center" width="16%">
-        <img src="https://img.shields.io/badge/Activity-3.7k+_Contribs-fe428e?style=flat-square&logo=github&logoColor=white" alt="Activity" />
-        <br>
-        <strong>Active Builder</strong><br>
-        <small>Continuous Committer</small>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 👨‍💻 Professional Profile
-
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <p>
-        I am a <strong>Computer Science Engineering student</strong> with dedicated industry experience in <strong>Linux System Administration</strong>, <strong>Technical Support</strong>, and <strong>Enterprise Infrastructure Automation</strong>.
-      </p>
-      <p>
-        My hands-on experience covers enterprise Linux environments including <strong>SUSE Linux Enterprise Server (SLES)</strong>, <strong>Ubuntu</strong>, and <strong>openSUSE</strong>. My core technical strengths focus on system hardening, log diagnostics, shell scripting, automation with <strong>Ansible</strong> and <strong>SaltStack</strong>, and AWS cloud provisioning.
-      </p>
-      <p>
-        I specialize in resolving operational bottlenecks, conducting structured <strong>Root Cause Analysis (RCA)</strong> on production incidents, and implementing preventive SRE runbooks to maximize uptime and operational reliability.
-      </p>
-      <p>
-        🎯 <strong>Actively targeting roles:</strong><br />
-        <code>Linux System Administrator</code> • <code>Linux Support Engineer</code> • <code>Technical Support Engineer</code> • <code>Infrastructure Support Engineer</code> • <code>Junior DevOps Engineer</code>
-      </p>
-      <ul>
-        <li>📍 <strong>Base:</strong> Satna, Madhya Pradesh, India</li>
-        <li>🎓 <strong>Education:</strong> B.Tech in CSE — AKS University, Satna <em>(2022 – 2026)</em></li>
-        <li>📬 <strong>Direct Inquiries:</strong> <a href="mailto:rajvl132011@gmail.com">rajvl132011@gmail.com</a></li>
-      </ul>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Developer coding animation" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 💼 Experience Timeline
-
-### 🏢 **OS3 Infotech Pvt. Ltd.**
-**Trainee System Engineer Intern**  
-*January 2026 – April 2026 (4 months) | Navi Mumbai*
-
-```
-[SUSE Linux Enterprise Server] [Ansible Automation] [Docker] [Server Hardening] [RCA Diagnostics]
-```
-
-- 🐧 **Linux Server Management:** Administered Linux systems and enterprise server environments powering internal business operations and applications.
-- 🔍 **Incident Resolution & RCA:** Performed real-time telemetry monitoring, troubleshooting, deep log analysis, and incident resolution for maximum service availability.
-- ⚙️ **Configuration & Provisioning:** Handled server configuration, automated system deployment, package management, and Linux administrative routines.
-- 📜 **Automation with Shell & Ansible:** Created reusable shell scripts and **Ansible playbooks** for configuration management and operational automation.
-- 🛡️ **Security Hardening:** Implemented Linux security baselines, firewall rules, user privilege restrictions, and routine maintenance patching.
-- 🐳 **Docker Environments:** Managed containerized Docker environments for application testing and deployment workflows.
-- 📝 **Documentation & SOPs:** Maintained technical documentation, troubleshooting runbooks, and Standard Operating Procedures (SOPs).
+<a href="https://github.com/Navneet1206">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Hardening+Linux+fleets+with+Ansible+%26+SaltStack;Debugging+prod+with+journalctl%2C+dmesg+%26+RCA;Shipping+infra+on+AWS%2C+Docker+%26+GitHub+Actions;Writing+the+runbook+so+it+doesn't+page+twice" alt="Typing animation" />
+</a>
 
 <br />
 
-### 🏢 **Codenixia**
-**Cloud & DevOps Engineering Intern**  
-*September 2025 – December 2025 (4 months) | Remote*
+<a href="https://www.linkedin.com/in/navneet1206"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:rajvl132011@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://devfolio.co/@Navneet1206"><img src="https://img.shields.io/badge/Devfolio-3770FF?style=for-the-badge&logo=devfolio&logoColor=white" alt="Devfolio" /></a>
+<a href="https://www.researchgate.net/profile/Navneet-Vishwakarma"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
+<img src="https://komarev.com/ghpvc/?username=navneet1206&label=VIEWS&color=7c3aed&style=for-the-badge" alt="Profile views" />
 
-```
-[AWS Cloud (EC2/VPC/S3)] [CI/CD Pipelines] [Linux Administration] [Git/GitHub] [DevOps Best Practices]
-```
+<sub>
+<a href="#whoami"><b>whoami</b></a> &nbsp;·&nbsp;
+<a href="#experience"><b>experience</b></a> &nbsp;·&nbsp;
+<a href="#stack"><b>stack</b></a> &nbsp;·&nbsp;
+<a href="#projects"><b>projects</b></a> &nbsp;·&nbsp;
+<a href="#research"><b>research</b></a> &nbsp;·&nbsp;
+<a href="#certifications"><b>certifications</b></a> &nbsp;·&nbsp;
+<a href="#analytics"><b>analytics</b></a> &nbsp;·&nbsp;
+<a href="#connect"><b>connect</b></a>
+</sub>
 
-- ☁️ **AWS Infrastructure:** Provisioned and managed AWS cloud resources across compute (EC2), networking (VPC, Subnets, Security Groups), and storage (S3).
-- 🚀 **Automated CI/CD:** Built automated continuous integration and continuous deployment pipelines for streamlined release cycles.
-- 🐧 **Linux Administration:** Managed Linux instances, system services, networking configuration, and performance optimization in cloud setups.
-- 🛠️ **DevOps Workflows:** Deployed practical cloud engineering projects applying Git collaboration, automation scripts, and SRE best practices.
-
----
-
-## 🛠️ Technical Skills & Matrix
-
-<div align="center">
-
-### 🐧 Operating Systems & Core Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/SUSE_Linux_Enterprise-0C322C?style=for-the-badge&logo=suse&logoColor=white" alt="SUSE Linux Enterprise" />
-  <img src="https://img.shields.io/badge/openSUSE-73BA25?style=for-the-badge&logo=opensuse&logoColor=white" alt="openSUSE" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
-  <img src="https://img.shields.io/badge/Linux_Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Admin" />
-  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-</p>
-
-### ⚙️ Automation & Configuration Management
-<p>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/SaltStack-5A6B7C?style=for-the-badge&logo=saltproject&logoColor=white" alt="SaltStack" />
-  <img src="https://img.shields.io/badge/Server_Hardening-00599C?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Server Hardening" />
-  <img src="https://img.shields.io/badge/Troubleshooting-232F3E?style=for-the-badge&logo=databricks&logoColor=white" alt="Troubleshooting" />
-  <img src="https://img.shields.io/badge/Log_Analysis-FF6F00?style=for-the-badge&logo=splunk&logoColor=white" alt="Log Analysis" />
-</p>
-
-### ☁️ Cloud, Containers & CI/CD
-<p>
-  <img src="https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/CI%2FCD_Pipelines-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-### 💻 Developer Tools & Environments
-<p>
-  <img src="https://skillicons.dev/icons?i=bash,python,aws,docker,git,githubactions,linux,vscode,postman" alt="Skill Icons" />
-</p>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ Enterprise Linux Server Hardening (Ansible & Bash)</h3>
-      <p>Automated security baseline hardening solution enforcing industry-standard security policies across Linux fleets.</p>
-      <ul>
-        <li>Automated CIS-aligned baseline configuration playbooks</li>
-        <li>Firewall (UFW / Firewalld) policy automation & SSH lockdown</li>
-        <li>Privilege access restriction, password policies, and auditd rules</li>
-        <li>Zero-touch idempotent deployment across multi-node servers</li>
-      </ul>
-      <p><strong>Skills:</strong> <code>Ansible</code> <code>SUSE Linux</code> <code>Bash</code> <code>Security Hardening</code></p>
-      <p>
-        <a href="https://github.com/Navneet1206">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" alt="View Project" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔍 Infrastructure Monitoring & Incident Investigation (RCA)</h3>
-      <p>Hands-on operational framework simulating production incidents, telemetry analysis, and remediation playbooks.</p>
-      <ul>
-        <li>Systemd journal, kernel logs, and dmesg deep diagnostic pipeline</li>
-        <li>Root Cause Analysis (RCA) templates and post-mortem documentation</li>
-        <li>Automated alerting scripts for memory, CPU, and disk threshold breaches</li>
-        <li>Preventive maintenance runbooks for sustained uptime</li>
-      </ul>
-      <p><strong>Skills:</strong> <code>Log Analysis</code> <code>Troubleshooting</code> <code>Linux SRE</code> <code>Bash</code></p>
-      <p>
-        <a href="https://github.com/Navneet1206">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" alt="View Project" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>☁️ AWS Cloud Infrastructure & Automated Deployment</h3>
-      <p>Production-ready infrastructure deployment lab implementing secure cloud networking and compute on AWS.</p>
-      <ul>
-        <li>Custom VPC architecture with isolated public/private subnets and route tables</li>
-        <li>Automated EC2 provisioning and security group least-privilege configurations</li>
-        <li>S3 storage policies and IAM role-based permission management</li>
-        <li>Automated shell setup scripts for web server and application hosting</li>
-      </ul>
-      <p><strong>Skills:</strong> <code>AWS</code> <code>Cloud Architecture</code> <code>EC2 / VPC / S3</code> <code>Networking</code></p>
-      <p>
-        <a href="https://github.com/Navneet1206">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" alt="View Project" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🐳 Multi-Stage Docker & GitHub Actions CI/CD Pipeline</h3>
-      <p>Continuous integration and delivery workflow automating build, test, and containerized deployment.</p>
-      <ul>
-        <li>Optimized multi-stage Dockerfiles reducing image attack surface and size</li>
-        <li>Automated GitHub Actions workflows for continuous build and lint verification</li>
-        <li>Container lifecycle orchestration and automated environment verification</li>
-        <li>Standardized deployment pipelines following modern DevOps best practices</li>
-      </ul>
-      <p><strong>Skills:</strong> <code>Docker</code> <code>CI/CD</code> <code>GitHub Actions</code> <code>YAML</code></p>
-      <p>
-        <a href="https://github.com/Navneet1206">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" alt="View Project" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🏅 Certifications & Training
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📜 Government & Industry Credentials</h4>
-      <ul>
-        <li><strong>NCVET:</strong> Junior Software Developer</li>
-        <li><strong>Skill India Certified:</strong> Junior Software Developer (MERN Stack)</li>
-        <li><strong>Goldman Sachs:</strong> Software Engineering Job Simulation</li>
-        <li><strong>Goldman Sachs Engineering:</strong> Security Assessment & Vulnerability Analysis</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🐧 Specialized Systems & Engineering</h4>
-      <ul>
-        <li><strong>Codenixia (CX-501):</strong> Linux Administration Training</li>
-        <li><strong>Codenixia (CX-701):</strong> Linux Server Hardening & Security Training</li>
-        <li><strong>OS3 Infotech Pvt. Ltd.:</strong> Trainee Systems Engineer Certificate</li>
-        <li><strong>Claude Code in Action:</strong> AI-Assisted Engineering Workflows</li>
-        <li><strong>Hackverse 5.0 & Thrilex 2024:</strong> Competitive Hackathon Finalist</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🔬 Research & Publications
-
-<div align="center">
-  <a href="https://www.researchgate.net/profile/Navneet-Vishwakarma">
-    <img src="https://img.shields.io/badge/Research_Interest_Score-9.7-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="Research Interest Score" />
-  </a>
-  &nbsp;
-  <a href="https://www.researchgate.net/profile/Navneet-Vishwakarma">
-    <img src="https://img.shields.io/badge/Reads-206+-0284c7?style=for-the-badge" alt="Reads" />
-  </a>
-  &nbsp;
-  <a href="https://www.researchgate.net/profile/Navneet-Vishwakarma">
-    <img src="https://img.shields.io/badge/Recommendations-17-7c3aed?style=for-the-badge" alt="Recommendations" />
-  </a>
-  &nbsp;
-  <a href="https://www.researchgate.net/profile/Navneet-Vishwakarma">
-    <img src="https://img.shields.io/badge/Citations-1-f59e0b?style=for-the-badge" alt="Citations" />
-  </a>
-  &nbsp;
-  <a href="https://www.researchgate.net/profile/Navneet-Vishwakarma">
-    <img src="https://img.shields.io/badge/h--index-1-10b981?style=for-the-badge" alt="h-index" />
-  </a>
 </div>
 
 <br />
 
-<table>
-  <tr>
-    <td width="70%" valign="top">
-      <h3>📄 Deep Learning & Biometric Security Systems (2 Research Items)</h3>
-      <p>
-        <strong>Published Research:</strong> Co-authored IEEE-indexed research exploring deep learning algorithms for biometric security, presentation attack detection (anti-spoofing), and algorithmic vulnerability mitigation in facial recognition systems.
-      </p>
-      <ul>
-        <li><strong>Research Interest Score (9.7):</strong> Higher than <strong>65%</strong> of ResearchGate researchers who first published in 2024.</li>
-        <li><strong>Engagement Breakdown:</strong> 41.5% Recommendations, 34.2% Full-text reads, 19.2% Other reads, 5.2% Citations.</li>
-        <li><strong>Technical Contribution:</strong> Evaluated neural network robustness against physical presentation attacks (PAD) and built automated data validation pipelines in Python.</li>
-      </ul>
-      <p>
-        <a href="https://www.researchgate.net/profile/Navneet-Vishwakarma">
-          <img src="https://img.shields.io/badge/Explore_ResearchGate_Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate Profile" />
-        </a>
-      </p>
-    </td>
-    <td width="30%" align="center" valign="middle">
-      <a href="https://www.researchgate.net/profile/Navneet-Vishwakarma">
-        <img src="https://img.shields.io/badge/ResearchGate-Verified_Author-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Author" />
-      </a>
-      <br /><br />
-      <strong>Navneet Vishwakarma</strong><br />
-      <em>Student Researcher @ AKS University</em><br /><br />
-      <a href="https://www.researchgate.net/profile/Navneet-Vishwakarma">
-        <img src="https://img.shields.io/badge/View_Full_Stats_%26_Papers-181717?style=flat-square&logo=researchgate&logoColor=00CCBB" alt="Read Publications" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a name="whoami"></a>
 
----
-
-## 🎓 Education
-
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h3>🏛️ AKS University, Satna (M.P.)</h3>
-      <p><strong>Bachelor of Technology — B.Tech, Computer Science & Engineering</strong></p>
-      <p><em>September 2022 – July 2026</em></p>
-      <ul>
-        <li>Specialization: Systems Engineering, Linux Administration, DevOps, Operating Systems</li>
-        <li>Active Researcher & Hackathon Finalist</li>
-      </ul>
-    </td>
-    <td width="40%" valign="top">
-      <h3>🏫 Govt. Excellence HSS Venkat 01 Satna</h3>
-      <p><strong>Higher Secondary Education (Class XII)</strong></p>
-      <p><em>August 2020 – August 2022</em></p>
-      <ul>
-        <li>Discipline: Mathematics & Science</li>
-        <li>Academic Excellence</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Analytics Command Center
+## `$ whoami`
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=navneet1206&theme=radical" alt="GitHub Profile Trophies" />
+  <img src="./assets/terminal.svg" width="88%" alt="Terminal: whoami --verbose output summarising role, focus, stack, education and status" />
+</div>
+
+<br />
+
+I'm a **Computer Science engineer** who likes the part of the stack most people avoid: the servers, the logs, and the 2 AM "why is this down?" question.
+
+I've worked hands-on with **SUSE Linux Enterprise Server**, **openSUSE** and **Ubuntu** — hardening hosts, automating config with **Ansible** and **SaltStack**, provisioning on **AWS**, and turning incidents into **RCA write-ups and runbooks** so the same problem doesn't come back.
+
+<img src="./assets/metrics.svg" width="100%" alt="2 Linux/DevOps internships · 2 research papers · 2× hackathon finalist · B.Tech CSE 2026" />
+
+> [!TIP]
+> **Hiring for** Linux System Administrator · Linux / Technical Support Engineer · Infrastructure Support · Junior DevOps / SRE?
+> I'm based in **Satna, MP, India** and open to on-site, hybrid or remote. → [**rajvl132011@gmail.com**](mailto:rajvl132011@gmail.com)
+
+<br />
+
+<a name="experience"></a>
+
+## `$ cat /var/log/experience`
+
+<table width="100%">
+  <tr>
+    <td width="6%" align="center" valign="top">🟢</td>
+    <td valign="top">
+      <b>Trainee System Engineer Intern</b> · <b>OS3 Infotech Pvt. Ltd.</b><br/>
+      <sub>Jan 2026 – Apr 2026 · 4 months · Navi Mumbai</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/SLES-0C322C?style=flat-square&logo=suse&logoColor=white" alt="SLES" />
+      <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Hardening-334155?style=flat-square&logo=letsencrypt&logoColor=white" alt="Hardening" />
+      <img src="https://img.shields.io/badge/RCA-334155?style=flat-square&logo=searxng&logoColor=white" alt="RCA" />
+      <details>
+        <summary><sub><b>What I did</b></sub></summary>
+        <br/>
+        <ul>
+          <li>Administered Linux servers backing internal business applications.</li>
+          <li>Monitored, troubleshot and resolved incidents through log analysis, then documented root cause.</li>
+          <li>Handled server configuration, package management and routine admin tasks.</li>
+          <li>Wrote reusable <b>Bash scripts</b> and <b>Ansible playbooks</b> for configuration management.</li>
+          <li>Applied security baselines: firewall rules, privilege restrictions and patching.</li>
+          <li>Managed <b>Docker</b> environments for application testing and deployment.</li>
+          <li>Maintained runbooks, troubleshooting guides and SOPs.</li>
+        </ul>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="6%" align="center" valign="top">🔵</td>
+    <td valign="top">
+      <b>Cloud &amp; DevOps Engineering Intern</b> · <b>Codenixia</b><br/>
+      <sub>Sep 2025 – Dec 2025 · 4 months · Remote</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/EC2_·_VPC_·_S3-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="EC2 VPC S3" />
+      <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+      <details>
+        <summary><sub><b>What I did</b></sub></summary>
+        <br/>
+        <ul>
+          <li>Provisioned and managed AWS compute (EC2), networking (VPC, subnets, security groups) and storage (S3).</li>
+          <li>Built CI/CD pipelines to automate build and release.</li>
+          <li>Administered Linux instances: services, networking and performance tuning.</li>
+          <li>Delivered hands-on cloud projects using Git workflows and automation scripts.</li>
+        </ul>
+      </details>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<a name="stack"></a>
+
+## `$ ls ~/stack`
+
+<table width="100%">
+  <tr>
+    <td width="22%"><b>🐧 OS &amp; Shell</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,bash&theme=dark" height="40" alt="Linux, Ubuntu, Debian, Bash" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/SUSE_SLES-0C322C?style=for-the-badge&logo=suse&logoColor=white" height="40" alt="SUSE Linux Enterprise" />
+      <img src="https://img.shields.io/badge/openSUSE-73BA25?style=for-the-badge&logo=opensuse&logoColor=white" height="40" alt="openSUSE" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>⚙️ Automation</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=ansible,python&theme=dark" height="40" alt="Ansible, Python" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/SaltStack-00A1E0?style=for-the-badge&logo=saltproject&logoColor=white" height="40" alt="SaltStack" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>☁️ Cloud &amp; Containers</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,docker,nginx&theme=dark" height="40" alt="AWS, Docker, Nginx" /></td>
+  </tr>
+  <tr>
+    <td><b>🚀 CI/CD &amp; VCS</b></td>
+    <td><img src="https://skillicons.dev/icons?i=githubactions,git,github&theme=dark" height="40" alt="GitHub Actions, Git, GitHub" /></td>
+  </tr>
+  <tr>
+    <td><b>🛠️ Ops practice</b></td>
+    <td>
+      <code>systemd</code> <code>journalctl</code> <code>dmesg</code> <code>firewalld / ufw</code> <code>ssh hardening</code> <code>auditd</code>
+      <code>log analysis</code> <code>RCA</code> <code>runbooks / SOPs</code>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<a name="projects"></a>
+
+## `$ ls ~/projects`
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛡️ Linux Server Hardening</h4>
+      <sub><code>Ansible</code> <code>Bash</code> <code>SLES</code></sub>
+      <p>Idempotent playbooks that apply a CIS-aligned baseline across a multi-node fleet.</p>
+      <ul>
+        <li>Firewall policy (firewalld / ufw) + SSH lockdown</li>
+        <li>Password policy, privilege limits, <code>auditd</code> rules</li>
+        <li>One-command, re-runnable rollout</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔍 Monitoring &amp; Incident RCA</h4>
+      <sub><code>Bash</code> <code>systemd</code> <code>Log analysis</code></sub>
+      <p>A practice framework for simulated incidents: detect → diagnose → write it up.</p>
+      <ul>
+        <li><code>journalctl</code>, kernel log and <code>dmesg</code> triage flow</li>
+        <li>CPU / memory / disk threshold alert scripts</li>
+        <li>RCA + post-mortem templates, preventive runbooks</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>☁️ AWS Network &amp; Compute Lab</h4>
+      <sub><code>EC2</code> <code>VPC</code> <code>S3</code> <code>IAM</code></sub>
+      <p>A secure baseline AWS environment built from scratch.</p>
+      <ul>
+        <li>Custom VPC with public / private subnets and route tables</li>
+        <li>Least-privilege security groups and IAM roles</li>
+        <li>Shell bootstrap for web-server hosting</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🐳 Docker + GitHub Actions Pipeline</h4>
+      <sub><code>Docker</code> <code>GitHub Actions</code> <code>YAML</code></sub>
+      <p>Build → lint → containerise → deploy, on every push.</p>
+      <ul>
+        <li>Multi-stage Dockerfiles for smaller, leaner images</li>
+        <li>Automated build and lint checks</li>
+        <li>Repeatable, standardised deploy flow</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://github.com/Navneet1206/Devops_projects"><img src="https://img.shields.io/badge/DevOps_lab_repo-0f172a?style=for-the-badge&logo=gnubash&logoColor=4ade80" alt="DevOps lab repo" /></a>
+</div>
+
+<br />
+
+<details>
+<summary><b>🌐 Open source — Ether Chess OTC</b> <sub>(click to expand)</sub></summary>
+<br />
+<div align="center">
+  <a href="https://github.com/Navneet1206/Ether-Chess-OTC">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Navneet1206&repo=Ether-Chess-OTC&theme=tokyonight&hide_border=true&border_radius=12" alt="Ether-Chess-OTC repository card" />
   </a>
-
-  <br /><br />
-
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-stats-extended.vercel.app/api?username=navneet1206&show_icons=true&theme=radical&hide_border=true" height="175" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=navneet1206&layout=compact&theme=radical&hide_border=true" height="175" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
   <br />
-
-  <img src="https://streak-stats.demolab.com?user=navneet1206&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-
-  <br /><br />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navneet1206&theme=radical" width="95%" alt="Profile Details" />
-
-  <br /><br />
-
-  <h3>📅 1-Year Contribution Activity Heatmap</h3>
-  <img src="https://ghchart.rshah.org/fe428e/navneet1206" alt="Navneet's GitHub Contributions Chart" width="95%" />
+  <a href="https://web3-chess.netlify.app/"><img src="https://img.shields.io/badge/Live_demo-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Live demo" /></a>
 </div>
+</details>
 
----
+<br />
 
-## 🤝 Connect With Me
+<a name="research"></a>
+
+## `$ cat ~/research.md`
+
+<table width="100%">
+  <tr>
+    <td width="68%" valign="top">
+      <b>Deep learning for biometric security</b> — 2 research items<br/>
+      <sub>Co-authored work on presentation-attack detection (anti-spoofing) and the robustness of face-recognition models. I evaluated model behaviour against physical spoofing attacks and built data-validation pipelines in Python.</sub>
+      <br/><br/>
+      <a href="https://www.researchgate.net/profile/Navneet-Vishwakarma"><img src="https://img.shields.io/badge/Read_on_ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="Read on ResearchGate" /></a>
+    </td>
+    <td width="32%" align="center" valign="middle">
+      <img src="https://img.shields.io/badge/Research_Interest-9.7-00CCBB?style=flat-square" alt="Research Interest 9.7" /><br/>
+      <img src="https://img.shields.io/badge/Reads-206+-0284c7?style=flat-square" alt="Reads 206+" /><br/>
+      <img src="https://img.shields.io/badge/Recommendations-17-7c3aed?style=flat-square" alt="Recommendations 17" /><br/>
+      <img src="https://img.shields.io/badge/Citations-1-f59e0b?style=flat-square" alt="Citations 1" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<a name="certifications"></a>
+
+## `$ ls ~/certifications`
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b>🐧 Systems &amp; DevOps</b>
+      <ul>
+        <li><b>OS3 Infotech</b> — Trainee Systems Engineer</li>
+        <li><b>Codenixia CX-501</b> — Linux Administration</li>
+        <li><b>Codenixia CX-701</b> — Linux Server Hardening &amp; Security</li>
+        <li><b>Anthropic</b> — Claude Code in Action</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <b>📜 Industry &amp; Government</b>
+      <ul>
+        <li><b>NCVET</b> — Junior Software Developer</li>
+        <li><b>Skill India</b> — Junior Software Developer (MERN)</li>
+        <li><b>Goldman Sachs</b> — Software Engineering Job Simulation</li>
+        <li><b>Goldman Sachs</b> — Security Assessment &amp; Vulnerability Analysis</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      🏆 <b>Finalist</b> — Hackverse 5.0 &nbsp;·&nbsp; Thrilex 2024
+      &nbsp;&nbsp;|&nbsp;&nbsp;
+      🎓 <b>B.Tech CSE</b>, AKS University, Satna <sub>(2022 – 2026)</sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<a name="analytics"></a>
+
+## `$ gh stats`
 
 <div align="center">
-  <p><strong>Interested in collaborating, hiring, or discussing Linux administration and DevOps infrastructure? Let's connect!</strong></p>
 
-  <a href="https://www.linkedin.com/in/navneet1206">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Navneet1206">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://devfolio.co/@Navneet1206">
-    <img src="https://img.shields.io/badge/Devfolio-3770FF?style=for-the-badge&logo=devfolio&logoColor=white" alt="Devfolio" />
-  </a>
-  &nbsp;
-  <a href="https://www.researchgate.net/profile/Navneet-Vishwakarma">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
-  </a>
-  &nbsp;
-  <a href="mailto:rajvl132011@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=navneet1206&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true" alt="GitHub stats" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=navneet1206&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top languages" />
 
-  <br /><br />
+<img src="https://streak-stats.demolab.com?user=navneet1206&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
 
-  <em>"Discipline, consistency, and hands-on practice build real engineering capability."</em>
+<br /><br />
 
-  <br /><br />
+<img src="https://github-trophies.vercel.app/?username=navneet1206&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="95%" alt="GitHub trophies" />
 
-  <img src="./assets/footer-wave.svg" width="100%" alt="Footer Wave" />
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Navneet1206/Navneet1206/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Navneet1206/Navneet1206/output/snake.svg" width="95%" alt="Contribution graph being eaten by a snake" />
+</picture>
+
+</div>
+
+<br />
+
+<a name="connect"></a>
+
+<div align="center">
+
+## `$ ssh navneet@hire-me`
+
+**Building a Linux, DevOps or SRE team? Let's talk.**
+
+<a href="https://www.linkedin.com/in/navneet1206"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:rajvl132011@gmail.com"><img src="https://img.shields.io/badge/rajvl132011@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://devfolio.co/@Navneet1206"><img src="https://img.shields.io/badge/Devfolio-3770FF?style=for-the-badge&logo=devfolio&logoColor=white" alt="Devfolio" /></a>
+
+<br /><br />
+
+<sub><i>"Discipline, consistency and hands-on practice build real engineering capability."</i></sub>
+
+<img src="./assets/footer-wave.svg" width="100%" alt="" />
+
 </div>
